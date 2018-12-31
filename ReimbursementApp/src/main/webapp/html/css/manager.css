@@ -1,0 +1,32 @@
+.jumbotron-fluid{
+    border-radius: 10px;
+    background-color: skyblue;
+}
+
+.bg-primary{
+    background-color: skyblue;
+}
+
+.display-1{
+    color:white;
+    text-align: center;
+}
+h4{
+    color:white;
+    text-align: center;
+
+}
+nav{
+    border-radius: 10px;
+}
+.container{
+}
+a{
+    color: white;
+}
+.nav-link.disabled{
+    color: white;
+}
+.myReimbursements{
+    border-radius: 10px;
+}

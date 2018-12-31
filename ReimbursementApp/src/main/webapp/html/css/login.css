@@ -1,0 +1,24 @@
+body{
+    background-color:white
+}
+.Welcome{
+    
+    text-align: center;
+    align-content: center;
+}
+.welcome-box{
+    color: white;
+    padding: 5%;
+    margin: 10%;
+    border-radius: 30px;
+    background-color:skyblue;
+}
+.log-in-form{
+    text-align: center;
+}
+#submitBtn{
+    margin-top: 20px;
+}
+.form{
+    align-content: center;
+}
